@@ -1,0 +1,82 @@
+[
+  {
+    "titolo": "One Piece",
+    "immagine": "images/OnePiece.jpg",
+    "episodi": "1155+",
+    "stagioni": "",
+    "generi": ["Action", "Adventure", "Comedy", "Drama", "Fantasy", "Shounen"],
+    "trama": "La trama di One Piece segue le avventure di Monkey D. Rufy, un ragazzo con corpo di gomma che sogna di diventare il Re dei Pirati cercando il leggendario tesoro lasciato dal precedente Re, Gol D. Roger, che ha dato inizio alla Grande Era della Pirateria. Rufy, dopo aver mangiato un frutto del diavolo, forma la ciurma dei Cappello di Paglia, navigando nella temibile Rotta Maggiore per trovare il tesoro, scontrandosi con la Marina e altri pirati, scoprendo misteri del mondo e costruendo alleanze, il tutto mentre lotta per la libertà e contro il malvagio Governo Mondiale. "
+  },
+  {
+    "titolo": "Bleach",
+    "immagine": "images/Bleach.jpg",
+    "episodi": "392+",
+    "stagioni": "",
+    "generi": ["Action", "Adventure", "Demons", "Fantasy", "Shounen", "Supernatural"],
+    "trama": "La trama di Bleach segue Ichigo Kurosaki, un liceale che può vedere i fantasmi, e Rukia Kuchiki, una Shinigami (dio della morte) che gli trasferisce i poteri per combattere gli Hollow (spiriti malvagi), facendolo diventare uno Shinigami sostituto e immergendolo nel mondo sovrannaturale della Soul Society, dove deve proteggere sia i vivi che le anime, affrontando minacce sempre più grandi come Arrancar e Quincy, e scoprendo segreti sulla Soul Society e sul suo passato. "
+  },
+  {
+    "titolo": "Hunter x Hunter",
+    "immagine": "images/Hunterxhunter.jpg",
+    "episodi": "148",
+    "stagioni": "",
+    "generi": ["Action", "Adventure", "Fantasy", "Shounen"],
+    "trama": "La trama di Hunter x Hunter segue Gon Freecss, un ragazzo che lascia la sua casa per diventare un Hunter d'élite e trovare suo padre, Ging, anch'egli un famoso Hunter. Durante il suo viaggio, stringe una forte amicizia con Killua, un assassino, Kurapika, che cerca vendetta per il suo clan, e Leorio, che vuole diventare medico. Insieme, affrontano prove estreme, nemici potenti e misteri, esplorando un mondo pericoloso e avventuroso, con archi narrativi che includono l'esame Hunter, l'arena Celeste, la città di York Shin e il gioco Greed Island, fino a saghe più complesse come quella delle Formichimere. "
+  },
+  {
+    "titolo": "Death Note",
+    "immagine": "images/DeathNote.jpg",
+    "episodi": "37",
+    "stagioni": "",
+    "generi": ["Mystery", "Psychological", "Shounen", "Supernatural", "Thriller"],
+    "trama": "La trama di Death Note segue Light Yagami, uno studente geniale ma annoiato, che trova un quaderno soprannaturale, il Death Note, lasciato sulla Terra dallo shinigami Ryuk; questo quaderno permette di uccidere chiunque scrivendone il nome e conoscendone il volto. Light decide di usarlo per eliminare i criminali e purificare il mondo, diventando il misterioso assassino Kira. Le sue azioni attirano l'attenzione del geniale e solitario detective L, che inizia una complessa partita a scacchi intellettuale per scoprire la sua identità, portando a una lotta avvincente tra i due. "
+  },
+  {
+    "titolo": "Sword Art Online",
+    "immagine": "images/SAO.jpg",
+    "episodi": "96",
+    "stagioni": "4",
+    "generi": ["Action", "Adventure", "Fantasy", "Game", "Romance"],
+    "trama": "Sword Art Online (SAO) racconta la storia di migliaia di giocatori intrappolati in un MMORPG di realtà virtuale mortale, dove la morte nel gioco equivale alla morte reale, e l'unico modo per fuggire è completare il gioco, scalando i 100 piani del castello volante di Aincrad, seguendo le vicende del protagonista Kirito e incontrando personaggi come Asuna, mentre esplorano vari altri giochi virtuali pieni di avventure e pericoli. "
+  },
+  {
+    "titolo": "Attack On Titan",
+    "immagine": "images/AoT.jpg",
+    "episodi": "89",
+    "stagioni": "4",
+    "generi": ["Action", "Drama", "Fantasy", "Gore", "Military", "Mystery", "Psychological", "Shounen", "Survival"],
+    "trama": "ttack on Titan (Shingeki no Kyojin) narra la lotta dell'umanità per la sopravvivenza, asserragliata dietro tre enormi mura per proteggersi dai Giganti, creature umanoidi che divorano persone; la trama segue il giovane Eren Jaeger e i suoi amici Mikasa Ackerman e Armin Arlert, che dopo che la loro casa viene distrutta e la madre di Eren uccisa da un Gigante, si arruolano nell'esercito per combatterli, scoprendo presto che la verità sul mondo è molto più complessa, con misteri, segreti e la scoperta che alcuni umani possono trasformarsi in Titani, inclusi i protagonisti. "
+  },
+  {
+    "titolo": "Horimiya",
+    "immagine": "images/Hori.jpg",
+    "episodi": "13",
+    "stagioni": "",
+    "generi": ["Comedy", "Romance", "School", "Shounen", "Slice of Life"],
+    "trama": "Horimiya racconta la storia di Kyoko Hori, una ragazza popolare e diligente a scuola, e Izumi Miyamura, un ragazzo introverso e dall'aspetto otaku, che in realtà nasconde tatuaggi e piercing, oltre a un cuore gentile e una vita da casalinga quando non è a scuola. I loro mondi segreti si scontrano casualmente quando Miyamura aiuta il fratello minore di Hori, portandoli a scoprire i lati nascosti l'uno dell'altra e a far nascere un'improbabile e profonda relazione che evolve rapidamente, mostrando la crescita personale di entrambi e del loro gruppo di amici. "
+  },
+  {
+    "titolo": "Mushoku Tensei",
+    "immagine": "images/Mushoku.jpg",
+    "episodi": "48",
+    "stagioni": "2",
+    "generi": ["Adventure", "Drama", "Ecchi", "Fantasy", "Isekai", "Reincarnation"],
+    "trama": "Mushoku Tensei: Jobless Reincarnation racconta la storia di un trentaquattrenne giapponese, un NEET (disoccupato e isolato), che muore investito da un camion e si reincarna in un mondo fantasy come neonato, Rudeus Greyrat, mantenendo i ricordi della sua vita passata e decidendo di vivere senza rimpianti, sfruttando il suo talento innato per la magia per superare i traumi e vivere avventure, creando legami e affrontando pericoli in un'epopea di crescita personale e fantasia. "
+  },
+  {
+    "titolo": "Chainsaw Man",
+    "immagine": "images/Chain.jpg",
+    "episodi": "12",
+    "stagioni": "1",
+    "generi": ["Action", "Comedy", "Demons", "Drama", "Fantasy", "Gore", "Horror", "Shounen", "Supernatural"],
+    "trama": "Chainsaw Man racconta la storia di Denji, un giovane orfano indebitato con la Yakuza che sopravvive cacciando diavoli insieme a Pochita, il Diavolo Motosega, che si fonde con lui diventandone il cuore dopo la sua morte, trasformandolo in un ibrido umano-diavolo potente e bizzarro. Reclutato dalla Pubblica Sicurezza, Denji si unisce alla Divisione Speciale 4 per cacciare diavoli più pericolosi, sognando una vita normale, l'amore e cibi semplici, mentre affronta creature terrificanti e oscuri intrighi nel suo mondo brutale e violento. "
+  },
+  {
+    "titolo": "My Hero Academia",
+    "immagine": "images/Mha.jpg",
+    "episodi": "170",
+    "stagioni": "8",
+    "generi": ["Action", "Adventure", "School", "Shounen", "Super Power"],
+    "trama": "My Hero Academia (Boku no Hero Academia) parla di Izuku Midoriya, un ragazzo nato senza superpoteri (Quirk) in un mondo dove la maggior parte delle persone li ha, ma sogna di diventare un eroe come il suo idolo, All Might. La sua vita cambia quando All Might gli dona il suo potere, il One For All, permettendogli di entrare alla prestigiosa Accademia Yuei per diventare un eroe professionista, affrontando villain e ostacoli lungo il cammino. "
+  }
+]
