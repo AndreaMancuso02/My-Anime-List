@@ -3,30 +3,102 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>My Anime Watchlist</title>
+    <title>Anime Hub Pro</title>
     <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
 </head>
 <body>
 
-    <h1>🎬 La Mia Watchlist</h1>
-    
-    <div id="watchlist"></div>
+    <div id="toast-container"></div>
 
-    <div id="animeModal" class="modal">
-        <div class="modal-content">
-            <span class="close-button">&times;</span>
-            <div class="modal-body">
-                <img id="modal-img" src="" alt="">
+    <nav class="navbar">
+        <div class="nav-logo">ANIME<span>HUB</span></div>
+        <div class="nav-links">
+            <button onclick="showSection('explore')" class="nav-link nav-link-desktop active" id="btn-explore">Esplora</button>
+            <button onclick="showSection('profile')" class="nav-link nav-link-desktop" id="btn-profile" style="display:none;">Mio Profilo</button>
+            
+            <div class="mobile-menu-container">
+                <button class="menu-toggle" onclick="toggleMobileMenu()"><i class="fas fa-bars"></i></button>
+                <div id="mobileDropdown" class="mobile-dropdown glass-effect">
+                    <button onclick="showSection('explore'); toggleMobileMenu()">Esplora</button>
+                    <button id="btn-profile-mobile" onclick="showSection('profile'); toggleMobileMenu()" style="display:none;">Mio Profilo</button>
+                </div>
+            </div>
+            <button id="authBtn" class="auth-trigger">Login</button>
+        </div>
+    </nav>
+
+    <main id="explore-section">
+        <div class="controls-container">
+            <div class="search-sort-row">
+                <div class="search-box glass-effect">
+                    <i class="fas fa-search"></i>
+                    <input type="text" id="searchInput" placeholder="Cerca il tuo anime...">
+                </div>
+                <button id="sortBtn" class="action-circle-btn glass-effect"><i class="fas fa-sort-alpha-down"></i></button>
+            </div>
+            <div class="categories-wrapper">
+                <button class="scroll-btn" id="prevBtn"><i class="fas fa-chevron-left"></i></button>
+                <div id="filterContainer" class="categories-scroll"></div>
+                <button class="scroll-btn" id="nextBtn"><i class="fas fa-chevron-right"></i></button>
+            </div>
+        </div>
+        <div id="watchlist" class="anime-grid"></div>
+    </main>
+
+    <section id="profile-section" style="display:none;">
+        <div class="profile-layout">
+            <aside class="profile-sidebar">
+                <div class="sidebar-group">
+                    <h3>La Mia Lista</h3>
+                    <ul class="stats-list glass-effect">
+                        <li onclick="filterProfile('all')" class="active" id="li-all"><span>Tutti</span> <em id="stat-total">0</em></li>
+                        <li onclick="filterProfile('in-corso')" id="li-in-corso"><span>Watching</span> <em id="stat-prog">0</em></li>
+                        <li onclick="filterProfile('completato')" id="li-completato"><span>Completed</span> <em id="stat-comp">0</em></li>
+                        <li onclick="filterProfile('da-vedere')" id="li-da-vedere"><span>Plan To Watch</span> <em id="stat-plan">0</em></li>
+                    </ul>
+                </div>
+            </aside>
+            <div class="profile-content">
+                <div id="watching-container" class="profile-group"><h2 class="section-title">Watching</h2><div id="grid-watching" class="anime-grid profile-grid"></div></div>
+                <div id="completed-container" class="profile-group"><h2 class="section-title">Completed</h2><div id="grid-completed" class="anime-grid profile-grid"></div></div>
+                <div id="plan-container" class="profile-group"><h2 class="section-title">Plan to Watch</h2><div id="grid-plan" class="anime-grid profile-grid"></div></div>
+            </div>
+        </div>
+    </section>
+
+    <div id="animeModal" class="modal-overlay" onclick="closeAnimeModalOutside(event)">
+        <div class="modal-content glass-effect">
+            <span class="close-modal" onclick="closeAnimeModal()">&times;</span>
+            <div class="modal-flex">
+                <div class="modal-cover"><img id="modal-img" src="" alt=""></div>
                 <div class="modal-info">
                     <h2 id="modal-title"></h2>
-                    <div id="modal-stats" class="stats"></div>
-                    <div id="modal-genres" class="genres"></div>
-                    <p id="modal-trama" class="trama-full"></p>
+                    <div id="modal-stats" class="meta-highlight"></div>
+                    <div id="modal-genres" class="tags-row"></div>
+                    <div class="modal-description"><h3>Trama</h3><p id="modal-trama"></p></div>
+                    <div class="modal-notes"><h3>Info</h3><p id="modal-commento"></p></div>
                 </div>
             </div>
         </div>
     </div>
 
+    <div id="authModal" class="modal-overlay" onclick="closeAnimeModalOutside(event)">
+        <div class="auth-card glass-effect">
+            <span class="close-modal" onclick="closeAuthModal()">&times;</span>
+            <div class="auth-header"><i class="fas fa-user-circle"></i><h2 id="auth-title">Accedi</h2></div>
+            <div class="auth-fields">
+                <div class="input-wrap"><i class="fas fa-envelope"></i><input type="email" id="email" placeholder="Email"></div>
+                <div class="input-wrap"><i class="fas fa-lock"></i><input type="password" id="password" placeholder="Password"></div>
+                <button class="auth-submit" onclick="handleAuth()">Entra</button>
+            </div>
+            <p class="auth-toggle" onclick="toggleAuthMode()">Nuovo utente? <span>Registrati</span></p>
+        </div>
+    </div>
+
+    <script src="https://www.gstatic.com/firebasejs/10.7.1/firebase-app-compat.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/10.7.1/firebase-auth-compat.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/10.7.1/firebase-firestore-compat.js"></script>
     <script src="script.js"></script>
 </body>
 </html>

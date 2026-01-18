@@ -3,25 +3,28 @@
     "titolo": "One Piece",
     "immagine": "images/OnePiece.jpg",
     "episodi": "1155+",
-    "stagioni": "",
+    "stagioni": "22",
     "generi": ["Action", "Adventure", "Comedy", "Drama", "Fantasy", "Shounen"],
-    "trama": "La trama di One Piece segue le avventure di Monkey D. Rufy, un ragazzo con corpo di gomma che sogna di diventare il Re dei Pirati cercando il leggendario tesoro lasciato dal precedente Re, Gol D. Roger, che ha dato inizio alla Grande Era della Pirateria. Rufy, dopo aver mangiato un frutto del diavolo, forma la ciurma dei Cappello di Paglia, navigando nella temibile Rotta Maggiore per trovare il tesoro, scontrandosi con la Marina e altri pirati, scoprendo misteri del mondo e costruendo alleanze, il tutto mentre lotta per la libertà e contro il malvagio Governo Mondiale. "
+    "trama": "La trama di One Piece segue le avventure di Monkey D. Rufy, un ragazzo con corpo di gomma che sogna di diventare il Re dei Pirati cercando il leggendario tesoro lasciato dal precedente Re, Gol D. Roger, che ha dato inizio alla Grande Era della Pirateria. Rufy, dopo aver mangiato un frutto del diavolo, forma la ciurma dei Cappello di Paglia, navigando nella temibile Rotta Maggiore per trovare il tesoro, scontrandosi con la Marina e altri pirati, scoprendo misteri del mondo e costruendo alleanze, il tutto mentre lotta per la libertà e contro il malvagio Governo Mondiale. ",
+    "commento": ""
   },
   {
     "titolo": "Bleach",
     "immagine": "images/Bleach.jpg",
     "episodi": "392+",
-    "stagioni": "",
+    "stagioni": "19",
     "generi": ["Action", "Adventure", "Demons", "Fantasy", "Shounen", "Supernatural"],
-    "trama": "La trama di Bleach segue Ichigo Kurosaki, un liceale che può vedere i fantasmi, e Rukia Kuchiki, una Shinigami (dio della morte) che gli trasferisce i poteri per combattere gli Hollow (spiriti malvagi), facendolo diventare uno Shinigami sostituto e immergendolo nel mondo sovrannaturale della Soul Society, dove deve proteggere sia i vivi che le anime, affrontando minacce sempre più grandi come Arrancar e Quincy, e scoprendo segreti sulla Soul Society e sul suo passato. "
+    "trama": "La trama di Bleach segue Ichigo Kurosaki, un liceale che può vedere i fantasmi, e Rukia Kuchiki, una Shinigami (dio della morte) che gli trasferisce i poteri per combattere gli Hollow (spiriti malvagi), facendolo diventare uno Shinigami sostituto e immergendolo nel mondo sovrannaturale della Soul Society, dove deve proteggere sia i vivi che le anime, affrontando minacce sempre più grandi come Arrancar e Quincy, e scoprendo segreti sulla Soul Society e sul suo passato. ",
+    "commento": ""
   },
   {
     "titolo": "Hunter x Hunter",
     "immagine": "images/Hunterxhunter.jpg",
     "episodi": "148",
-    "stagioni": "",
+    "stagioni": "6",
     "generi": ["Action", "Adventure", "Fantasy", "Shounen"],
-    "trama": "La trama di Hunter x Hunter segue Gon Freecss, un ragazzo che lascia la sua casa per diventare un Hunter d'élite e trovare suo padre, Ging, anch'egli un famoso Hunter. Durante il suo viaggio, stringe una forte amicizia con Killua, un assassino, Kurapika, che cerca vendetta per il suo clan, e Leorio, che vuole diventare medico. Insieme, affrontano prove estreme, nemici potenti e misteri, esplorando un mondo pericoloso e avventuroso, con archi narrativi che includono l'esame Hunter, l'arena Celeste, la città di York Shin e il gioco Greed Island, fino a saghe più complesse come quella delle Formichimere. "
+    "trama": "La trama di Hunter x Hunter segue Gon Freecss, un ragazzo che lascia la sua casa per diventare un Hunter d'élite e trovare suo padre, Ging, anch'egli un famoso Hunter. Durante il suo viaggio, stringe una forte amicizia con Killua, un assassino, Kurapika, che cerca vendetta per il suo clan, e Leorio, che vuole diventare medico. Insieme, affrontano prove estreme, nemici potenti e misteri, esplorando un mondo pericoloso e avventuroso, con archi narrativi che includono l'esame Hunter, l'arena Celeste, la città di York Shin e il gioco Greed Island, fino a saghe più complesse come quella delle Formichimere. ",
+    "commento": ""
   },
   {
     "titolo": "Death Note",
@@ -29,7 +32,8 @@
     "episodi": "37",
     "stagioni": "",
     "generi": ["Mystery", "Psychological", "Shounen", "Supernatural", "Thriller"],
-    "trama": "La trama di Death Note segue Light Yagami, uno studente geniale ma annoiato, che trova un quaderno soprannaturale, il Death Note, lasciato sulla Terra dallo shinigami Ryuk; questo quaderno permette di uccidere chiunque scrivendone il nome e conoscendone il volto. Light decide di usarlo per eliminare i criminali e purificare il mondo, diventando il misterioso assassino Kira. Le sue azioni attirano l'attenzione del geniale e solitario detective L, che inizia una complessa partita a scacchi intellettuale per scoprire la sua identità, portando a una lotta avvincente tra i due. "
+    "trama": "La trama di Death Note segue Light Yagami, uno studente geniale ma annoiato, che trova un quaderno soprannaturale, il Death Note, lasciato sulla Terra dallo shinigami Ryuk; questo quaderno permette di uccidere chiunque scrivendone il nome e conoscendone il volto. Light decide di usarlo per eliminare i criminali e purificare il mondo, diventando il misterioso assassino Kira. Le sue azioni attirano l'attenzione del geniale e solitario detective L, che inizia una complessa partita a scacchi intellettuale per scoprire la sua identità, portando a una lotta avvincente tra i due. ",
+    "commento": ""
   },
   {
     "titolo": "Sword Art Online",
@@ -37,7 +41,8 @@
     "episodi": "96",
     "stagioni": "4",
     "generi": ["Action", "Adventure", "Fantasy", "Game", "Romance"],
-    "trama": "Sword Art Online (SAO) racconta la storia di migliaia di giocatori intrappolati in un MMORPG di realtà virtuale mortale, dove la morte nel gioco equivale alla morte reale, e l'unico modo per fuggire è completare il gioco, scalando i 100 piani del castello volante di Aincrad, seguendo le vicende del protagonista Kirito e incontrando personaggi come Asuna, mentre esplorano vari altri giochi virtuali pieni di avventure e pericoli. "
+    "trama": "Sword Art Online (SAO) racconta la storia di migliaia di giocatori intrappolati in un MMORPG di realtà virtuale mortale, dove la morte nel gioco equivale alla morte reale, e l'unico modo per fuggire è completare il gioco, scalando i 100 piani del castello volante di Aincrad, seguendo le vicende del protagonista Kirito e incontrando personaggi come Asuna, mentre esplorano vari altri giochi virtuali pieni di avventure e pericoli. ",
+    "commento": ""
   },
   {
     "titolo": "Attack On Titan",
@@ -45,7 +50,8 @@
     "episodi": "89",
     "stagioni": "4",
     "generi": ["Action", "Drama", "Fantasy", "Gore", "Military", "Mystery", "Psychological", "Shounen", "Survival"],
-    "trama": "ttack on Titan (Shingeki no Kyojin) narra la lotta dell'umanità per la sopravvivenza, asserragliata dietro tre enormi mura per proteggersi dai Giganti, creature umanoidi che divorano persone; la trama segue il giovane Eren Jaeger e i suoi amici Mikasa Ackerman e Armin Arlert, che dopo che la loro casa viene distrutta e la madre di Eren uccisa da un Gigante, si arruolano nell'esercito per combatterli, scoprendo presto che la verità sul mondo è molto più complessa, con misteri, segreti e la scoperta che alcuni umani possono trasformarsi in Titani, inclusi i protagonisti. "
+    "trama": "ttack on Titan (Shingeki no Kyojin) narra la lotta dell'umanità per la sopravvivenza, asserragliata dietro tre enormi mura per proteggersi dai Giganti, creature umanoidi che divorano persone; la trama segue il giovane Eren Jaeger e i suoi amici Mikasa Ackerman e Armin Arlert, che dopo che la loro casa viene distrutta e la madre di Eren uccisa da un Gigante, si arruolano nell'esercito per combatterli, scoprendo presto che la verità sul mondo è molto più complessa, con misteri, segreti e la scoperta che alcuni umani possono trasformarsi in Titani, inclusi i protagonisti. ",
+    "commento": ""
   },
   {
     "titolo": "Horimiya",
@@ -53,7 +59,8 @@
     "episodi": "13",
     "stagioni": "",
     "generi": ["Comedy", "Romance", "School", "Shounen", "Slice of Life"],
-    "trama": "Horimiya racconta la storia di Kyoko Hori, una ragazza popolare e diligente a scuola, e Izumi Miyamura, un ragazzo introverso e dall'aspetto otaku, che in realtà nasconde tatuaggi e piercing, oltre a un cuore gentile e una vita da casalinga quando non è a scuola. I loro mondi segreti si scontrano casualmente quando Miyamura aiuta il fratello minore di Hori, portandoli a scoprire i lati nascosti l'uno dell'altra e a far nascere un'improbabile e profonda relazione che evolve rapidamente, mostrando la crescita personale di entrambi e del loro gruppo di amici. "
+    "trama": "Horimiya racconta la storia di Kyoko Hori, una ragazza popolare e diligente a scuola, e Izumi Miyamura, un ragazzo introverso e dall'aspetto otaku, che in realtà nasconde tatuaggi e piercing, oltre a un cuore gentile e una vita da casalinga quando non è a scuola. I loro mondi segreti si scontrano casualmente quando Miyamura aiuta il fratello minore di Hori, portandoli a scoprire i lati nascosti l'uno dell'altra e a far nascere un'improbabile e profonda relazione che evolve rapidamente, mostrando la crescita personale di entrambi e del loro gruppo di amici. ",
+    "commento": ""
   },
   {
     "titolo": "Mushoku Tensei",
@@ -61,15 +68,17 @@
     "episodi": "48",
     "stagioni": "2",
     "generi": ["Adventure", "Drama", "Ecchi", "Fantasy", "Isekai", "Reincarnation"],
-    "trama": "Mushoku Tensei: Jobless Reincarnation racconta la storia di un trentaquattrenne giapponese, un NEET (disoccupato e isolato), che muore investito da un camion e si reincarna in un mondo fantasy come neonato, Rudeus Greyrat, mantenendo i ricordi della sua vita passata e decidendo di vivere senza rimpianti, sfruttando il suo talento innato per la magia per superare i traumi e vivere avventure, creando legami e affrontando pericoli in un'epopea di crescita personale e fantasia. "
+    "trama": "Mushoku Tensei: Jobless Reincarnation racconta la storia di un trentaquattrenne giapponese, un NEET (disoccupato e isolato), che muore investito da un camion e si reincarna in un mondo fantasy come neonato, Rudeus Greyrat, mantenendo i ricordi della sua vita passata e decidendo di vivere senza rimpianti, sfruttando il suo talento innato per la magia per superare i traumi e vivere avventure, creando legami e affrontando pericoli in un'epopea di crescita personale e fantasia. ",
+    "commento": ""
   },
   {
     "titolo": "Chainsaw Man",
     "immagine": "images/Chain.jpg",
     "episodi": "12",
-    "stagioni": "1",
+    "stagioni": "",
     "generi": ["Action", "Comedy", "Demons", "Drama", "Fantasy", "Gore", "Horror", "Shounen", "Supernatural"],
-    "trama": "Chainsaw Man racconta la storia di Denji, un giovane orfano indebitato con la Yakuza che sopravvive cacciando diavoli insieme a Pochita, il Diavolo Motosega, che si fonde con lui diventandone il cuore dopo la sua morte, trasformandolo in un ibrido umano-diavolo potente e bizzarro. Reclutato dalla Pubblica Sicurezza, Denji si unisce alla Divisione Speciale 4 per cacciare diavoli più pericolosi, sognando una vita normale, l'amore e cibi semplici, mentre affronta creature terrificanti e oscuri intrighi nel suo mondo brutale e violento. "
+    "trama": "Chainsaw Man racconta la storia di Denji, un giovane orfano indebitato con la Yakuza che sopravvive cacciando diavoli insieme a Pochita, il Diavolo Motosega, che si fonde con lui diventandone il cuore dopo la sua morte, trasformandolo in un ibrido umano-diavolo potente e bizzarro. Reclutato dalla Pubblica Sicurezza, Denji si unisce alla Divisione Speciale 4 per cacciare diavoli più pericolosi, sognando una vita normale, l'amore e cibi semplici, mentre affronta creature terrificanti e oscuri intrighi nel suo mondo brutale e violento. ",
+    "commento": ""
   },
   {
     "titolo": "My Hero Academia",
@@ -77,6 +86,268 @@
     "episodi": "170",
     "stagioni": "8",
     "generi": ["Action", "Adventure", "School", "Shounen", "Super Power"],
-    "trama": "My Hero Academia (Boku no Hero Academia) parla di Izuku Midoriya, un ragazzo nato senza superpoteri (Quirk) in un mondo dove la maggior parte delle persone li ha, ma sogna di diventare un eroe come il suo idolo, All Might. La sua vita cambia quando All Might gli dona il suo potere, il One For All, permettendogli di entrare alla prestigiosa Accademia Yuei per diventare un eroe professionista, affrontando villain e ostacoli lungo il cammino. "
+    "trama": "My Hero Academia (Boku no Hero Academia) parla di Izuku Midoriya, un ragazzo nato senza superpoteri (Quirk) in un mondo dove la maggior parte delle persone li ha, ma sogna di diventare un eroe come il suo idolo, All Might. La sua vita cambia quando All Might gli dona il suo potere, il One For All, permettendogli di entrare alla prestigiosa Accademia Yuei per diventare un eroe professionista, affrontando villain e ostacoli lungo il cammino. ",
+    "commento": ""
+  },
+  {
+    "titolo": "The Fragrant Flower Blooms with Dignity",
+    "immagine": "images/Fragrant.jpg",
+    "episodi": "12",
+    "stagioni": "",
+    "generi": ["Romance", "Drama", "School"],
+    "trama": "Rintaro Tsumugi è uno studente della scuola superiore Chidori, un istituto per ragazzi di basso livello frequentato da delinquenti. Un giorno, mentre aiuta nel negozio di dolci della sua famiglia, incontra Kaoruko Waguri, una studentessa della prestigiosa Kikyo Academy. Nonostante l'ostilità storica tra le due scuole, tra i due nasce un legame profondo che sfida i pregiudizi sociali.",
+    "commento": ""
+  },
+  {
+    "titolo": "Classroom of the Elite",
+    "immagine": "images/ClassroomOfTheElite.jpg",
+    "episodi": "38",
+    "stagioni": "3",
+    "generi": ["Drama", "Psychological", "School"],
+    "trama": "Kiyotaka Ayanokoji è un timido studente della prestigiosa Tokyo Metropolitan Advanced Nurturing High School, dove agli studenti viene garantito il successo futuro. Inserito nella Classe D, quella dei 'rifiuti', deve navigare in un sistema scolastico spietato basato su punti merito e competizione brutale, nascondendo le sue straordinarie abilità intellettuali.",
+    "commento": ""
+  },
+  {
+    "titolo": "Dandadan",
+    "immagine": "images/DDD.jpg",
+    "episodi": "24",
+    "stagioni": "2",
+    "generi": ["Action", "Comedy", "Supernatural", "Sci-Fi"],
+    "trama": "Momo Ayase, una ragazza che crede negli spiriti, e Ken Takakura, un nerd ossessionato dagli alieni, si sfidano a visitare luoghi infestati per dimostrare chi ha ragione. Finiscono per scoprire che sia i fantasmi che gli extraterrestri esistono davvero, venendo coinvolti in una serie di battaglie assurde e psichedeliche per recuperare le parti del corpo perdute di Ken.",
+    "commento": ""
+  },
+  {
+    "titolo": "The Apothecary Diaries",
+    "immagine": "images/ApothecaryDiaries.jpg",
+    "episodi": "48",
+    "stagioni": "2",
+    "generi": ["Drama", "Mystery", "Historical"],
+    "trama": "Maomao, una giovane speziale rapita e venduta come serva nel palazzo imperiale, cerca di mantenere un profilo basso. Tuttavia, la sua curiosità e le sue conoscenze mediche la portano a risolvere un mistero riguardante la salute dei figli dell'imperatore, attirando l'attenzione dell'influente e affascinante eunuco Jinshi.",
+    "commento": ""
+  },
+  {
+    "titolo": "Cyberpunk: Edgerunners",
+    "immagine": "images/Cyber.jpg",
+    "episodi": "10",
+    "stagioni": "",
+    "generi": ["Action", "Sci-Fi", "Psychological"],
+    "trama": "In una distopia ossessionata dalla tecnologia e dalle modifiche corporee, un ragazzo di strada di nome David Martinez, dopo aver perso tutto, decide di sopravvivere diventando un 'edgerunner' — un mercenario fuorilegge noto come Cyberpunk. La sua ascesa nei ranghi criminali di Night City lo porterà a scontrarsi con la perdita della propria umanità.",
+    "commento": ""
+  },
+  {
+    "titolo": "The Eminence in Shadow",
+    "immagine": "images/EminenceShadow.jpg",
+    "episodi": "32",
+    "stagioni": "2",
+    "generi": ["Action", "Comedy", "Fantasy", "Isekai"],
+    "trama": "Cid Kagenou desidera essere il 'burattinaio' dietro le quinte. Reincarnatosi in un mondo magico, crea un'organizzazione segreta chiamata Shadow Garden per combattere un culto immaginario. Il problema è che il culto esiste davvero, e Cid è l'unico a pensare che sia tutto un grande gioco di ruolo, nonostante le sue incredibili dimostrazioni di forza.",
+    "commento": ""
+  },
+  {
+    "titolo": "Alya Sometimes Hides Her Feelings in Russian",
+    "immagine": "images/Alya.jpg",
+    "episodi": "12",
+    "stagioni": "",
+    "generi": ["Comedy", "Romance", "School"],
+    "trama": "Alisa Mikhailovna Kujou, soprannominata Alya, è una studentessa bellissima che sembra fredda e inavvicinabile. Spesso mormora dolci parole e sentimenti in russo al suo compagno di banco Masachika Kuze, convinta che lui non capisca la lingua. Tuttavia, Masachika capisce perfettamente il russo, ma finge di non sapere nulla per puro divertimento.",
+    "commento": ""
+  },
+  {
+    "titolo": "ERASED",
+    "immagine": "images/erased.jpg",
+    "episodi": "12",
+    "stagioni": "",
+    "generi": ["Mystery", "Psychological", "Supernatural", "Seinen"],
+    "trama": "Satoru Fujinuma possiede il 'Revival', un'abilità che lo rimanda indietro nel tempo di pochi minuti per prevenire tragedie. Quando viene incastrato per l'omicidio di sua madre, il suo potere lo riporta indietro di 18 anni, ai tempi delle elementari. Qui dovrà salvare tre suoi compagni di classe da un rapitore seriale per cambiare il futuro.",
+    "commento": ""
+  },
+  {
+    "titolo": "Frieren: Beyond Journey's End",
+    "immagine": "images/Frieren.jpg",
+    "episodi": "28+",
+    "stagioni": "2",
+    "generi": ["Adventure", "Drama", "Fantasy"],
+    "trama": "Dopo che il gruppo di eroi ha sconfitto il Re Demone, la maga elfa Frieren inizia un nuovo viaggio. Essendo quasi immortale, vede i suoi compagni umani invecchiare e morire. Pentita di non averli conosciuti meglio, decide di intraprendere un pellegrinaggio verso il luogo dove riposano le anime, imparando il valore del tempo e dei legami umani lungo la strada.",
+    "commento": ""
+  },
+  {
+    "titolo": "Go! Go! Loser Ranger!",
+    "immagine": "images/LoserRanger.jpg",
+    "episodi": "24",
+    "stagioni": "2",
+    "generi": ["Action", "Sci-Fi", "Super Power"],
+    "trama": "In un mondo dove i supereroi 'Divine Dragon Rangers' hanno sconfitto l'esercito nemico anni fa, i sopravvissuti dell'armata del male sono costretti a mettere in scena sconfitte settimanali per il pubblico. Uno dei mostri, il Combattente D, decide di ribellarsi a questa farsa e si infiltra nell'organizzazione dei Ranger per distruggerli dall'interno.",
+    "commento": ""
+  },
+  {
+    "titolo": "Insomniacs After School",
+    "immagine": "images/Insomniacs.jpg",
+    "episodi": "13",
+    "stagioni": "",
+    "generi": ["Romance", "Slice of Life", "School"],
+    "trama": "Ganta Nakami e Isaki Magari sono due studenti liceali che soffrono entrambi di insonnia. I due si incontrano nell'osservatorio astronomico della scuola, ormai trasformato in un magazzino, e decidono di ripristinare il club di astronomia per avere un posto tranquillo dove poter riposare e condividere le loro notti insonni.",
+    "commento": ""
+  },
+  {
+    "titolo": "Oshi no Ko",
+    "immagine": "images/Oshi.jpg",
+    "episodi": "24+",
+    "stagioni": "3",
+    "generi": ["Drama", "Mystery", "Supernatural"],
+    "trama": "Un ginecologo e una sua paziente terminale si reincarnano come i figli gemelli della loro idol preferita, Ai Hoshino. Dietro la facciata scintillante del mondo dello spettacolo, i due fratelli crescono scoprendo i lati oscuri e i pericoli dell'industria dell'intrattenimento, mentre cercano la verità su un tragico evento del loro passato.",
+    "commento": ""
+  },
+  {
+    "titolo": "Heavenly Delusion",
+    "immagine": "images/HeavenlyDelusion.jpg",
+    "episodi": "13",
+    "stagioni": "",
+    "generi": ["Adventure", "Mystery", "Sci-Fi"],
+    "trama": "In un Giappone post-apocalittico infestato da mostri mangia-uomini, Maru e Kiruko viaggiano alla ricerca del 'Paradiso'. Parallelamente, un gruppo di ragazzi vive all'interno di una struttura isolata dal mondo esterno, circondata da mura, dove iniziano a sorgere dubbi sulla natura della loro realtà.",
+    "commento": ""
+  },
+  {
+    "titolo": "My Dress-Up Darling",
+    "immagine": "images/MyDressUpDarling.jpg",
+    "episodi": "24",
+    "stagioni": "2",
+    "generi": ["Romance", "Slice of Life", "School"],
+    "trama": "Wakana Gojo è un ragazzo solitario con la passione per la creazione di bambole Hina. La sua vita cambia quando Marin Kitagawa, la ragazza più popolare della classe, scopre il suo talento nel cucito e gli chiede di aiutarla a realizzare costumi da cosplay. Nonostante le differenze, i due iniziano a collaborare e ad avvicinarsi sempre di più.",
+    "commento": ""
+  },
+  {
+    "titolo": "Naruto - Naruto Shippuden",
+    "immagine": "images/Naruto.jpg",
+    "episodi": "720",
+    "stagioni": "34",
+    "generi": ["Action", "Adventure", "Shounen"],
+    "trama": "Naruto Uzumaki è un giovane ninja con un demone sigillato dentro di sé, sognando di diventare l'Hokage, il leader del suo villaggio, per ottenere il riconoscimento di tutti. Insieme ai compagni del Team 7, Sasuke e Sakura, affronta missioni e nemici potenti imparando il significato del sacrificio e dell'amicizia.",
+    "commento": ""
+  },
+  {
+    "titolo": "Jujutsu Kaisen",
+    "immagine": "images/JJK.jpg",
+    "episodi": "47+",
+    "stagioni": "3",
+    "generi": ["Action", "Fantasy", "Supernatural"],
+    "trama": "Yuji Itadori, un liceale con doti fisiche eccezionali, mangia un dito maledetto per salvare i suoi amici, diventando l'ospite del potente demone Ryomen Sukuna. Si unisce quindi all'Istituto di Arti Occulte di Tokyo per imparare a combattere le maledizioni e raccogliere le restanti parti di Sukuna prima della propria esecuzione.",
+    "commento": ""
+  },
+  {
+    "titolo": "Kaiju No. 8",
+    "immagine": "images/K8.jpg",
+    "episodi": "23",
+    "stagioni": "2",
+    "generi": ["Action", "Sci-Fi", "Shounen"],
+    "trama": "In un mondo tormentato dai Kaiju, Kafka Hibino lavora nella squadra di pulizia dei resti dei mostri dopo le battaglie. Dopo un incidente, acquisisce la capacità di trasformarsi lui stesso in un Kaiju pur mantenendo la coscienza umana. Kafka decide di usare questo potere per realizzare finalmente il suo sogno di entrare nella Defense Force.",
+    "commento": ""
+  },
+  {
+    "titolo": "Mashle: Magic and Muscles",
+    "immagine": "images/Mashle.jpg",
+    "episodi": "24",
+    "stagioni": "2",
+    "generi": ["Action", "Comedy", "Fantasy"],
+    "trama": "In un mondo dove la magia è tutto, Mash Burnedead è nato senza poteri magici. Per proteggere la sua vita tranquilla con il nonno, si iscrive alla prestigiosa accademia magica di Easton. Il suo obiettivo è diventare un 'Illuminato Divino' usando esclusivamente la sua forza fisica sovrumana per sconfiggere la magia stessa.",
+    "commento": ""
+  },
+  {
+    "titolo": "Hell's Paradise",
+    "immagine": "images/HellsParadise.jpg",
+    "episodi": "13+",
+    "stagioni": "2",
+    "generi": ["Action", "Adventure", "Fantasy"],
+    "trama": "Gabimaru l'Arido, un ninja condannato a morte, riceve la possibilità di essere graziato se riuscirà a trovare l'Elisir di Lunga Vita su un'isola leggendaria e pericolosa. Accompagnato dalla sua esecutrice Sagiri, dovrà sopravvivere a creature mostruose e ad altri condannati spietati in una corsa contro il tempo.",
+    "commento": ""
+  },
+  {
+    "titolo": "The Fragrant Flower Blooms with Dignity",
+    "immagine": "images/Fragrant.jpg",
+    "episodi": "12",
+    "stagioni": "",
+    "generi": ["Romance", "Drama", "School"],
+    "trama": "Rintaro Tsumugi è uno studente della scuola superiore Chidori, un istituto per ragazzi di basso livello. Un giorno incontra Kaoruko Waguri, una studentessa della prestigiosa Kikyo Academy. Nonostante i pregiudizi e l'ostilità tra le loro scuole, i due iniziano a sviluppare un legame profondo basato sulla gentilezza e il rispetto reciproco.",
+    "commento": ""
+  },
+  {
+    "titolo": "Classroom of the Elite",
+    "immagine": "images/ClassroomOfTheElite.jpg",
+    "episodi": "38",
+    "stagioni": "3",
+    "generi": ["Drama", "Psychological", "School"],
+    "trama": "Kiyotaka Ayanokoji è uno studente della Classe D presso la prestigiosa Tokyo Metropolitan Advanced Nurturing High School. In un sistema scolastico dove i punti sono tutto e la competizione tra classi è spietata, Ayanokoji deve navigare tra manipolazioni e sfide intellettuali mantenendo segrete le sue vere capacità.",
+    "commento": ""
+  },
+  {
+    "titolo": "Tomodachi Game",
+    "immagine": "images/Tomodachi.jpg",
+    "episodi": "12",
+    "stagioni": "",
+    "generi": ["Drama", "Psychological", "Strategy"],
+    "trama": "Yuuichi Katagiri e i suoi amici vengono rapiti e costretti a partecipare a una serie di giochi psicologici per ripagare un enorme debito. La loro amicizia verrà messa alla prova in un gioco dove il tradimento è l'unica via per la sopravvivenza.",
+    "commento": ""
+  },
+  {
+    "titolo": "Saga of Tanya the Evil",
+    "immagine": "images/TanyatheDevil.jpg",
+    "episodi": "12",
+    "stagioni": "",
+    "generi": ["Action", "Fantasy", "Military"],
+    "trama": "Un impiegato cinico viene reincarnato da un'entità divina nel corpo di una bambina, Tanya Degurechaff, in un mondo in guerra che ricorda l'Europa del primo Novecento. Tanya scalerà i ranghi militari usando una logica spietata e poteri magici.",
+    "commento": ""
+  },
+  {
+    "titolo": "Zom 100: Bucket List of the Dead",
+    "immagine": "images/Zom100.jpg",
+    "episodi": "12",
+    "stagioni": "",
+    "generi": ["Action", "Comedy", "Horror"],
+    "trama": "Dopo anni passati a lavorare come uno schiavo per un'azienda sfruttatrice, Akira Tendo vede l'apocalisse zombie come un'opportunità per sentirsi finalmente vivo. Decide così di completare una lista di 100 cose da fare prima di diventare un non-morto.",
+    "commento": ""
+  },
+  {
+    "titolo": "Shangri-La Frontier",
+    "immagine": "images/ShangriLa.jpg",
+    "episodi": "50",
+    "stagioni": "2",
+    "generi": ["Action", "Adventure", "Fantasy"],
+    "trama": "Rakuro Hizutome è un 'cacciatore di giochi spazzatura' che decide di cimentarsi con Shangri-La Frontier, il videogioco VR più popolare del momento. Grazie alle sue abilità affinate nei giochi peggiori, inizierà un'avventura leggendaria.",
+    "commento": ""
+  },
+  {
+    "titolo": "Solo Leveling",
+    "immagine": "images/SoloLeveling.jpg",
+    "episodi": "25",
+    "stagioni": "2",
+    "generi": ["Action", "Adventure", "Fantasy"],
+    "trama": "In un mondo in cui i 'Hunter' devono combattere mostri per proteggere l'umanità, Sung Jin-woo è conosciuto come il più debole di tutti. Dopo un tragico incidente in un dungeon, ottiene l'accesso a un misterioso sistema che gli permette di salire di livello senza limiti.",
+    "commento": ""
+  },
+  {
+    "titolo": "Wistoria: Wand and Sword",
+    "immagine": "images/Wistoria.jpg",
+    "episodi": "12",
+    "stagioni": "",
+    "generi": ["Action", "Adventure", "Fantasy"],
+    "trama": "Will Serfort frequenta l'accademia di magia nonostante l'incapacità di lanciare incantesimi. Per mantenere una promessa d'infanzia, dovrà farsi strada verso la vetta usando solo la sua incredibile maestria con la spada in un mondo dominato dalla magia.",
+    "commento": ""
+  },
+  {
+    "titolo": "The Case Study of Vanitas",
+    "immagine": "images/Vanitas.jpg",
+    "episodi": "24",
+    "stagioni": "2",
+    "generi": ["Fantasy", "Mystery", "Supernatural"],
+    "trama": "In una Parigi steampunk, il vampiro Noé incontra Vanitas, un umano che possiede un grimorio capace di curare la maledizione dei vampiri. Insieme inizieranno un viaggio per salvare la stirpe dei vampiri da una misteriosa corruzione.",
+    "commento": ""
+  },
+  {
+    "titolo": "Spy x Family",
+    "immagine": "images/SpyxFamily.jpg",
+    "episodi": "37",
+    "stagioni": "3",
+    "generi": ["Action", "Comedy", "Slice of Life"],
+    "trama": "Per portare a termine una missione segreta, la spia Twilight deve formare una famiglia fittizia. Non sa però che la 'moglie' è un'assassina professionista e la 'figlia' è una telepate, portando a una vita quotidiana piena di segreti ed equivoci.",
+    "commento": ""
   }
 ]
